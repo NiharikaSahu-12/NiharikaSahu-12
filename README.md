@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **sahuniharika1211@gmail.com**
 
+- ⚡Fun fact **I think I am an Introvert person**😜
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
