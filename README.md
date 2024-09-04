@@ -30,4 +30,4 @@ height="40"></a>&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiharikaSahu-12&show_icons=true&locale=en&layout=compact" alt="NiharikaSahu-12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiharikaSahu-12&show_icons=true&locale=en" alt="NiharikaSahu-12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NiharikaSahu-12&show_icons=true" alt="NiharikaSahu-12"/></p>
