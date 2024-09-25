@@ -1,7 +1,7 @@
 <h1 align="center">Hey there !, I'm Niharika Sahu</h1>
 <h3 align="center">A passionate Front End Developer</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
