@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 📫 Reach me at **sahuniharika1211@gmail.com**
+- 📫 Reach me at **niharikasahu1299@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
