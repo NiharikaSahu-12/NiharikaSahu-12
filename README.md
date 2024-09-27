@@ -1,5 +1,5 @@
-<h1 align="center">Hey there !, I'm Niharika Sahu</h1>
-<h3 align="center">A passionate Front End Developer</h3>
+<h1 align="center">Hey!, I'm Niharika Sahu</h1>
+<h3 align="center">Front End Developer | React Developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
