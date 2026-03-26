@@ -118,9 +118,6 @@ const niharika = {
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:---:|:---|:---|:---:|
 | **Portfolio Website** | Personal portfolio showcasing my work and skills | React, Tailwind CSS, Netlify | [🔗](https://niharika-portfolio-website.netlify.app/) |
-| **Project 2** | Brief description of what this project does | React, Next.js, MongoDB | [🔗](#) |
-| **Project 3** | Brief description of what this project does | JavaScript, Bootstrap, MySQL | [🔗](#) |
-| **Project 4** | Brief description of what this project does | Next.js, Tailwind CSS, API | [🔗](#) |
 
 </div>
 
