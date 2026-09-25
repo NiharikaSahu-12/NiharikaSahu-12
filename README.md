@@ -274,20 +274,6 @@ Responsive Design
 
 <img width="48%" src="https://streak-stats.demolab.com?user=NiharikaSahu-12&hide_border=true&background=0D0717&ring=E879F9&fire=EC4899&currStreakLabel=E879F9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999"/>
 
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharikaSahu-12&layout=donut&hide_border=true&bg_color=0D0717&title_color=E879F9&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=NiharikaSahu-12&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
 </div>
 
 ---
